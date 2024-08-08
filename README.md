@@ -6,38 +6,28 @@
 ```javascript
 const fadhi = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, Java],
-  tools: [React, Redux, Node, Express, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  code: ["JavaScript", "HTML", "CSS", "Python", "Java"],
+  tools: ["React", "Redux", "Node", "Express", "Tailwind CSS", "GSAP", "MongoDB"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+    techLead: "Tinker-Hub",
+    cybersecurityInstructor: "Tinker-Hub"
+  },
+  challenge: "Learning more about GSAP and Three.js",
+  ambitions: [
+    "Learn Flutter",
+    "Dive more into Cybersecurity",
+    "Know more about Ethical Hacking",
+    // Assume 10 more ;)
+  ]
+};
 ```
 
-<!--
-**Fadhii/fadhii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## ⚡ Skills:
+- React js
 - Node.js
-- TypeScript
-- NestJS
-- Ethereum
+- Tailwind CSS
+- CyberSecurity
 
 ## 🧰 &nbsp;My toolbox
 
